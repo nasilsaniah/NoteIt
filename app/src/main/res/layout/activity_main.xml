@@ -18,9 +18,24 @@
        android:layout_height="40dp"
        android:layout_centerHorizontal="true"
        android:layout_marginTop="350dp"
-       android:hint="Enter USN"
+       android:hint="Enter your USN"
        android:textSize="15dp"
+       android:id="@+id/usn"
        />
+   <EditText
+       android:id="@+id/email"
+       android:layout_width="300dp"
+       android:layout_height="40dp"
+       android:layout_centerHorizontal="true"
+       android:layout_marginTop="400dp"
+       android:hint="Enter your EmailId"
+       android:textSize="15dp"
+       android:textAllCaps="false"
+       />
+
+
+
+
    <Button
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
@@ -28,5 +43,5 @@
        android:background="@color/colorAccent"
        android:id="@+id/tap"
        android:layout_centerHorizontal="true"
-       android:layout_marginTop="450dp"/>
+       android:layout_marginTop="480dp"/>
 </RelativeLayout>
