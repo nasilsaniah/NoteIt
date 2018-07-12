@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "470786860028",
+    "firebase_url": "https://noteit-ef8a8.firebaseio.com",
+    "project_id": "noteit-ef8a8",
+    "storage_bucket": "noteit-ef8a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470786860028:android:d8afcc21ff706d05",
+        "android_client_info": {
+          "package_name": "ddsmartlabs.noteit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470786860028-b4kbfmevj28u1fmojf342293gn1a2dqj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "470786860028-b4kbfmevj28u1fmojf342293gn1a2dqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbJrJcVVJaXpEWSH8HEpScjmO7NhQ9W40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
